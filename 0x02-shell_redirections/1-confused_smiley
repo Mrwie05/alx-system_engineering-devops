@@ -1,3 +1,4 @@
-1-confused_smiley
+#!/bin/bash
+echo "Hello, World"
 1-confused_smiley.txt
 README.md
